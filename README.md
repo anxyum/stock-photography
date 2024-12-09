@@ -1,2 +1,2 @@
-# stock photography
+# stock-photography
  
